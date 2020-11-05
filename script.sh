@@ -19,5 +19,5 @@ echo "installing finger"
 sleep 3
 yum install finger -y
 echo "the installation is successfully done .."
-sleep 4
+sleep 5
 
